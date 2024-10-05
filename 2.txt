@@ -1,0 +1,16 @@
+
+* d368152 Tweaked the README.
+* 6ca00d6 Updated README
+* 1f159cd Updated the README
+| * 68fddf7 (HEAD -> master, origin/master, origin/HEAD) 10.1_ljg
+| * da90e87 (upstream/master) Updated README.md
+| * 6b81a2a Added functionality and GUI for mode computation
+|/  
+| * 477d230 Updated the README file to document how to build and run the app. Modified the build.xml file to be able to generated javadoc. Renamed some source files to improve understandability.
+| * 69eccb5 Want to include only the source files and not the class files.
+|/  
+* a7b1a7d (tag: v1.0.0) Added GUI functionality for mean and median
+* 769e45d Added simple window application for NotSoGoods.
+* c0a8627 Added a first draft of the toy implementation.
+* ba319db Updated README.
+* 9b1bbb2 Initial commit
