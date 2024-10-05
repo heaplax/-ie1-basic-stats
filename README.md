@@ -1,3 +1,7 @@
+# This is a further change
+
+# This is a change from LJG in 10.5
+
 # Basic Statistics
 
 Basic Statistics is a Java-based implementation for computing statistics on a set of numbers.
